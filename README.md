@@ -8,8 +8,7 @@ This Python script identifies potential ecommerce websites from a list of domain
 
 Clone this repository.
 Install required libraries:
-Bash
-pip install requests beautifulsoup4
+Bash -- ''pip install requests beautifulsoup4''
 ## Usage
 
 Save the domains to a file named domains.txt, with each domain on a separate line.
